@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### EXP 1:Study-of-basic-gates and verification of truth tables using Verilog
 
 **AIM:** 
 
