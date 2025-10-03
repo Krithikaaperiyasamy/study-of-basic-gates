@@ -65,7 +65,7 @@ Y= A⊕B
 
 **PROGRAM**
 
-module pgm1(a,b,y1,y2,y3,y4,y5,y6);
+module ex1(a,b,y1,y2,y3,y4,y5,y6);
 input a,b;
 output y1,y2,y3,y4,y5,y6;
 and g1(y1,a,b);
